@@ -1,10 +1,10 @@
-name:          Code Guide by @mdo
-description:   Standards for developing flexible, durable, and sustainable HTML and CSS.
-url:           http://mdo.github.com/code-guide
-name_ptbr:          Guia de Código do @mdo
-description_ptbr:   Padrões para desenvolver código HTML e CSS flexíveis, duráveis e sustentáveis.
-url_ptbr:           http://diegoeis.github.com/code-guide/pt-br
+name: Code Guide by @mdo
+description: Standards for developing flexible, durable, and sustainable HTML and CSS.
+url: http://mdo.github.com/code-guide
+name_ptbr: Guia de Código da Orgânica Digital
+description_ptbr: Padrões para desenvolver código HTML e CSS flexíveis, duráveis e sustentáveis.
+url_ptbr: http://organicadigital.github.com/code-guide/pt-br
 
-markdown:      rdiscount
-permalink:     pretty
-pygments:      true
+markdown: rdiscount
+permalink: pretty
+highlighter: pygments
