@@ -3,7 +3,7 @@ description: Standards for developing flexible, durable, and sustainable HTML an
 url: http://mdo.github.com/code-guide
 name_ptbr: Guia de Código da Orgânica Digital
 description_ptbr: Padrões para desenvolver código HTML e CSS flexíveis, duráveis e sustentáveis.
-url_ptbr: http://organicadigital.github.com/code-guide/pt-br
+url_ptbr: http://organicadigital.github.com/code-guide
 
 markdown: rdiscount
 permalink: pretty
